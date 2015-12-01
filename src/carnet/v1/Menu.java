@@ -46,8 +46,7 @@ public class Menu extends JFrame implements ActionListener {
             myPanel.add(prenomField);
             myPanel.add(new JLabel("Adresse : "));
             myPanel.add(adrField);
-            
-            ceci est un test
+
             
             int result = JOptionPane.showConfirmDialog(null, myPanel, 
                 "Ajouter un contact", JOptionPane.OK_CANCEL_OPTION);
