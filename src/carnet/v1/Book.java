@@ -2,7 +2,7 @@
 package carnet.v1;
 
 public class Book {
-    // something
+
     private static final int CONTACTS_SIZE = 10;
     private int currentIndex; 
     private Contact[] contacts;
