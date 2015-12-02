@@ -2,7 +2,8 @@
 package carnet.v1;
 
 public class Book {
-
+//koukou
+	olol
     private static final int CONTACTS_SIZE = 10;
     private int currentIndex; 
     private Contact[] contacts;
